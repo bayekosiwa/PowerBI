@@ -6,7 +6,7 @@ It also includes a slicer and drill down functionality for a more interactive vi
 
 ### Steps followed 
 
-- Step 1 : Selected a data source that is an excel file (.xlsx) of the survey
+- Step 1 : Loaded a data source that is an excel file (.xlsx) of the survey into PowerBI
 - Step 2 : Transformed data using Power Query Editor to make it usable for reports
 - Step 3 : Loaded data
 - Step 4 : Created relationships and joins with suitable cross filter direction
