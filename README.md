@@ -1,4 +1,4 @@
-# Professional Data Survey
+# Professional Data Survey Analysis and Visualization
 
 This visualization involves a random survey of employees from all around the world which shows the report on the basis of their happiness score in various aspects, their favorite programming language, average salary, salary comparison between genders, salaries of different job roles.
 
